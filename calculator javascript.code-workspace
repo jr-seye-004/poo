@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../calculator javascript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "panier js"
+	}
+}
